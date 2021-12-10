@@ -1,3 +1,3 @@
-# advent-of-code
+# Advent of Code
 
-Randomly adding solutions when I have the time! 
+Adding solutions when I have the time! 
